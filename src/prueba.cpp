@@ -11,6 +11,10 @@ using namespace std;
 
 int main() {
 	cout << "Hola mundo!" << endl; // prints !!!Hello World!!!
+<<<<<<< HEAD
 	cout << "Adios!" << endl; // prints Adios
+=======
+	cout << "Hasa luego!" << endl; // prints !!!Hello World!!!
+>>>>>>> branch 'master' of https://github.com/msillor/curso_feb_2021.git
 	return 0;
 }
